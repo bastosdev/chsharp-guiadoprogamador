@@ -1,0 +1,15 @@
+C:\udemy\chsharp-guiadoprogamador\bin\Debug\net6.0\chsharp-guiadoprogamador.exe
+C:\udemy\chsharp-guiadoprogamador\bin\Debug\net6.0\chsharp-guiadoprogamador.deps.json
+C:\udemy\chsharp-guiadoprogamador\bin\Debug\net6.0\chsharp-guiadoprogamador.runtimeconfig.json
+C:\udemy\chsharp-guiadoprogamador\bin\Debug\net6.0\chsharp-guiadoprogamador.dll
+C:\udemy\chsharp-guiadoprogamador\bin\Debug\net6.0\chsharp-guiadoprogamador.pdb
+C:\udemy\chsharp-guiadoprogamador\obj\Debug\net6.0\chsharp-guiadoprogamador.csproj.AssemblyReference.cache
+C:\udemy\chsharp-guiadoprogamador\obj\Debug\net6.0\chsharp-guiadoprogamador.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\chsharp-guiadoprogamador\obj\Debug\net6.0\chsharp-guiadoprogamador.AssemblyInfoInputs.cache
+C:\udemy\chsharp-guiadoprogamador\obj\Debug\net6.0\chsharp-guiadoprogamador.AssemblyInfo.cs
+C:\udemy\chsharp-guiadoprogamador\obj\Debug\net6.0\chsharp-guiadoprogamador.csproj.CoreCompileInputs.cache
+C:\udemy\chsharp-guiadoprogamador\obj\Debug\net6.0\chsharp-guiadoprogamador.dll
+C:\udemy\chsharp-guiadoprogamador\obj\Debug\net6.0\refint\chsharp-guiadoprogamador.dll
+C:\udemy\chsharp-guiadoprogamador\obj\Debug\net6.0\chsharp-guiadoprogamador.pdb
+C:\udemy\chsharp-guiadoprogamador\obj\Debug\net6.0\chsharp-guiadoprogamador.genruntimeconfig.cache
+C:\udemy\chsharp-guiadoprogamador\obj\Debug\net6.0\ref\chsharp-guiadoprogamador.dll

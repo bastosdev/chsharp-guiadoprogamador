@@ -1,16 +1,36 @@
 ﻿using System;
-using System.Net;
 
-namespace MeuApp
+namespace csharpguiadoprogramador
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /* PRATICANDO HERANÇA E POLIMORFISMO*/
-            Adm gerente = new Adm("gerencia", "Bruno", "bruno@gmail.com", 123);
+            /*
+            var cultInfo = CultureInfo.InvariantCulture;
 
-            /* PRATICANDO HTTP*/
+            Console.Write("Digite um número: ");
+            string ? n1 = double.Parse(Console.ReadLine(), cultInfo);
+
+            Console.Write("Digite outro número: ");
+            string ? n2 = double.Parse(Console.ReadLine(), cultInfo);
+            */
+            
+            Console.Clear();
+
+            double n1 = 5.2;
+            double n2 = 7.4;
+
+            Calc.Somar(n1, n2);
+
+            CadastrarProduto.Cadastrar();
+
+            
+
+
+
+
+
         }
 
     }
@@ -55,4 +75,24 @@ namespace MeuApp
             
         }
     }
+
+    interface IopenAccount
+    {
+        void openNewAccount();
+    }
+    class CheckingAccount : IopenAccount
+    {
+        void IopenAccount.openNewAccount()
+        {   
+            Console.WriteLine("Qual tipo de conta deseja abrir?");
+            var type = Console.ReadLine();
+
+            if(type == "Corrente")
+            {
+                IopenAccount newaccount = new CheckingAccount();
+            }
+        }
+    }
+
+
 }
